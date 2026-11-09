@@ -4,7 +4,7 @@ Full-stack website for a fitness & rehabilitation centre in Zvolen, Slovakia: gy
 
 **🔗 Live:** https://rege-centrum.vercel.app
 
-> The source code is in a private repository. **Full source is available on request for hiring purposes** — contact me via my GitHub profile.
+> The source code is in a private repository. **Full source is available on request for hiring purposes** — contact me via my email.
 
 <table>
   <tr>
